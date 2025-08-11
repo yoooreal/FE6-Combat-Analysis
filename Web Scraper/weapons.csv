@@ -1,0 +1,98 @@
+Weapon,Type,Level,Might,Weight,Hit,Crit,Range,Uses,Price,Notes
+Iron Sword,Sword,E,5,5,85,0,1,46,460,--
+Iron Blade,Sword,D,9,12,65,0,1,35,980,--
+Steel Sword,Sword,D,8,10,70,0,1,30,600,--
+Silver Sword,Sword,A,13,8,75,0,1,20,"1,500",--
+Slim Sword,Sword,E,3,2,95,5,1,30,480,--
+Poison Sword,Sword,D,3,6,70,0,1,40,0,Inflicts poison upon hit.
+Brave Sword,Sword,B,9,12,80,0,1,30,"3,000",Strikes twice consecutively.
+Light Brand,Sword,C,9,9,70,0,1–2,25,"1,250","At 2-range, deals 10 damage, cannot land critical hits, and counts as light magic."
+Durandal,Sword,S,17,12,90,0,1,20,0,+5 strength when equipped.Deals bonus damage to dragon units.Cannot be sold.
+Armorslayer,Sword,D,8,11,85,0,1,18,"1,260",Deals bonus damage to armored units.
+Rapier,Sword,E,5,5,95,10,1,25,"2,000",Lord only.Deals bonus damage to cavalry and armored units.
+Killing Edge,Sword,C,9,7,80,30,1,20,"1,300",--
+Lancereaver,Sword,C,9,9,80,5,1,15,"1,800",Reverses the weapon triangle.
+Wo Dao,Sword,D,8,5,75,40,1,20,"1,200",Myrmidon and Swordmaster only.
+Binding Blade,Sword,--,18,8,95,10,1–2,20,0,"Lord only.+5 defense, +5 resistance when equipped.Deals bonus damage to dragon units.Can be used to recover 30 HP.Cannot be sold."
+Iron Lance,Lance,E,7,8,70,0,1,45,360,--
+Steel Lance,Lance,D,10,13,55,0,1,30,480,--
+Silver Lance,Lance,A,14,10,65,0,1,20,"1,200",--
+Slim Lance,Lance,E,4,4,80,5,1,30,450,--
+Poison Lance,Lance,E,4,8,55,0,1,40,0,Inflicts poison upon hit.
+Brave Lance,Lance,B,10,14,70,0,1,30,"2,400",Strikes twice consecutively.
+Javelin,Lance,E,6,11,55,0,1–2,20,400,--
+Maltet,Lance,S,16,11,80,0,1,20,0,+5 skill when equipped.Deals bonus damage to dragon units.Cannot be sold.
+Ridersbane,Lance,D,11,13,75,0,1,16,"1,040",Deals bonus damage to cavalry units.
+Killer Lance,Lance,C,10,9,75,30,1,20,"1,200",--
+Axereaver,Lance,C,10,11,75,5,1,15,"1,950",Reverses the weapon triangle.
+Iron Axe,Axe,E,8,10,65,0,1,45,270,--
+Steel Axe,Axe,E,11,15,50,0,1,30,360,--
+Silver Axe,Axe,A,15,12,55,0,1,20,"1,000",--
+Poison Axe,Axe,D,4,10,50,0,1,40,0,Inflicts poison upon hit.
+Brave Axe,Axe,B,10,16,55,0,1,30,"2,250",Strikes twice consecutively.
+Hand Axe,Axe,E,7,12,50,0,1–2,20,300,--
+Armads,Axe,S,18,13,75,0,1,20,0,+5 defense when equipped.Deals bonus damage to dragon units.Cannot be sold.
+Hammer,Axe,D,8,15,45,0,1,20,800,Deals bonus damage to armored units.
+Killer Axe,Axe,C,11,11,65,30,1,20,"1,000",--
+Swordreaver,Axe,C,11,13,60,5,1,20,"2,800",Reverses the weapon triangle.
+Devil Axe,Axe,E,18,18,55,0,1,20,900,Has a (21 − level)% chance to backfire on the user.
+Poleax,Axe,D,10,15,55,0,1,18,810,Deals bonus damage to cavalry units.
+Iron Bow,Bow,E,6,5,80,0,2,45,540,Deals bonus damage to flying units.
+Steel Bow,Bow,D,9,9,65,0,2,30,720,Deals bonus damage to flying units.
+Silver Bow,Bow,A,13,6,70,0,2,20,"1,600",Deals bonus damage to flying units.
+Poison Bow,Bow,D,4,5,65,0,2,40,0,Unused.Deals bonus damage to flying units.
+Killer Bow,Bow,C,9,7,80,30,2,20,"1,400",Deals bonus damage to flying units.
+Brave Bow,Bow,B,10,12,75,0,2,30,"3,600",Deals bonus damage to flying units.Strikes twice consecutively.
+Short Bow,Bow,D,5,3,80,10,2,22,"1,760",Deals bonus damage to flying units.
+Longbow,Bow,D,5,10,55,0,2–3,20,"2,000",Deals bonus damage to flying units.
+Mulagir,Bow,S,16,9,80,0,2,20,0,+5 speed when equipped.Deals bonus damage to dragon units.Cannot be sold.
+Ballista,Bow,E,8,20,70,0,3–10,5,0,Deals bonus damage to flying units.User and foe cannot counterattack.
+Long Ballista,Bow,E,13,20,60,0,3–15,5,0,Deals bonus damage to flying units.User and foe cannot counterattack.
+Killer Ballista,Bow,E,12,20,65,10,3–10,5,0,Deals bonus damage to flying units.User and foe cannot counterattack.
+Fire,Anima,E,5,1,95,0,1–2,30,420,--
+Thunder,Anima,D,6,2,80,5,1–2,25,500,--
+Fimbulvetr,Anima,A,13,8,80,0,1–2,15,"3,900",--
+Elfire,Anima,C,8,4,75,0,1–2,20,800,--
+Aircalibur,Anima,B,8,2,85,0,1–2,20,"1,100",Deals bonus damage to flying units.
+Fenrir,Dark,A,15,13,65,0,1–2,13,"7,800",--
+Bolting,Anima,A,12,10,70,0,3–10,5,"3,000",User and foe cannot counterattack.
+Forblaze,Anima,S,14,6,85,5,1–2,20,0,+5 luck when equipped.Deals bonus damage to dragon units.Cannot be sold.
+Lightning,Light,E,5,1,75,0,1–2,30,540,--
+Divine,Light,C,8,3,65,0,1–2,25,"1,250",--
+Purge,Light,A,10,8,70,0,3–10,5,"3,500",User and foe cannot counterattack.
+Aureola,Light,S,15,9,90,5,1–2,20,0,+5 resistance when equipped.Deals bonus damage to dragon units.Cannot be sold.
+Flux,Dark,D,8,5,70,0,1–2,30,780,--
+Nosferatu,Dark,C,10,6,70,0,1–2,20,"3,000",Restores (damage dealt) HP to the user.
+Eclipse,Dark,B,255,9,10,0,3–10,5,"4,000",Reduces a foe to 1 HP; kills a foe that is at 1 HP.Cannot perform follow-up attacks or critical hits.User and foe cannot counterattack.
+Apocalypse,Dark,S,18,12,80,5,1–2,20,0,+5 magic when equipped.Deals bonus damage to dragon units.Cannot be sold.
+Heal,Staff,E,--,2,--,--,1,30,600,Restores (10 + magic) HP to an ally.
+Mend,Staff,D,--,4,--,--,1,20,"1,000",Restores (20 + magic) HP to an ally.
+Recover,Staff,C,--,6,--,--,1,15,"2,250",Restores all HP to an ally.
+Physic,Staff,B,--,5,--,--,1 – 5+(magic/2),15,"3,750",Restores (10 + magic) HP to an ally.
+Fortify,Staff,A,--,7,--,--,1 – 5+(magic/2),8,"8,000",Restores (10 + magic) HP to all allies.
+Warp,Staff,A,--,5,--,--,1,5,"7,500",Transports an ally to a traversable tile; destination range: 1 – 5+(magic/2).
+Rescue,Staff,B,--,6,--,--,1 – 5+(magic/2),3,"1,800",Transports an ally next to the user.
+Restore,Staff,C,--,4,--,--,1,10,"2,000",Removes all status effects from an ally.
+Silence,Staff,B,--,7,70,--,1 – 5+(magic/2),3,"1,200",Inflicts silence on an enemy.
+Sleep,Staff,B,--,8,--,--,1 – 5+(magic/2),3,"1,500",Inflicts sleep on an enemy.
+Torch,Staff,D,--,5,--,--,1,10,"1,000",Increases the user's vision to 9 tiles; decreases by 1 tile per turn.
+Hammerne,Staff,C,--,7,--,--,1,3,"1,800",Restores the durability of an ally's weapon; cannot repair itself.
+Watch,Staff,C,--,6,--,--,1 – 5+(magic/2),5,"2,000",Unused.Non-functional.
+Berserk,Staff,B,--,8,--,--,1 – 5+(magic/2),3,"1,800",Inflicts berserk on an enemy.
+Unlock,Staff,D,--,7,--,--,1–2,3,"1,200",Opens a door.
+Barrier,Staff,C,--,4,--,--,1,15,"2,250",+7 resistance to an ally; buff decreases by 1 point per turn.
+Firestone,Stone,--,15,0,100,5,1,--,0,"Manakete only.+10 strength, +10 skill, +20 defense, +5 resistance when equipped."
+Divinestone,Stone,--,16,0,100,15,1,30,0,"Manakete only.+12 strength, +12 skill, +15 defense, +20 resistance when equipped.Deals bonus damage to dragon units."
+Magestone,Stone,--,20,0,100,10,1,--,0,"Unused.Manakete only.+15 strength, +15 skill, +20 defense, +15 resistance when equipped."
+Dark Breath,Stone,--,20,0,100,10,1,--,0,Manakete only.
+Eckesachs,Sword,--,15,15,90,5,1–2,--,0,Zephiel only.
+Steel Blade,Sword,C,11,14,60,0,1,25,"1,250",--
+Silver Blade,Sword,A,14,13,55,0,1,15,"1,800",--
+Al's Sword,Sword,D,7,7,75,0,1,50,"1,000",--
+Gant's Lance,Lance,D,9,10,65,0,1,50,800,--
+Tina's Staff,Staff,E,--,3,--,--,1,30,"1,800",Restores (15 + magic) HP to an ally.
+Staff of the Saint,Staff,S,--,5,--,--,∞,3,0,Restores all HP and removes all status effects for all allies.Cannot be sold.
+Wyrmslayer,Sword,C,10,5,70,0,1,15,"2,250",Deals bonus damage to dragon units.
+Runesword,Sword,A,12,11,60,0,1–2,15,"3,300",Restores (damage dealt) HP to the user.
+Spear,Lance,B,10,10,65,5,1–2,15,"1,500",--
+Tomahawk,Axe,A,13,14,55,0,1–2,15,"3,000",--
